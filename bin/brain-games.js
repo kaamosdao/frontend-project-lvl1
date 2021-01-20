@@ -1,2 +1,3 @@
 #!/usr/bin/env node
-console.log('Welcome to the Brain Games!'); // eslint-disable-line no-console
+import { greetingUserName } from '../src/cli.js';
+greetingUserName();
