@@ -1,0 +1,21 @@
+name: Linting
+
+on:
+  - push 
+
+jobs:
+  build:
+    
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: |
+          make install
+
+      - name: Run eslint
+        run: |
+          make lint
