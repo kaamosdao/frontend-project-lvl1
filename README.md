@@ -3,8 +3,9 @@
 [![Action Linting Status](https://github.com/kaamosdao/frontend-project-lvl1/workflows/Linting/badge.svg)](https://github.com/kaamosdao/frontend-project-lvl1/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 ### Brain Games demo
-#### // installing and brain-even game demo
+#### // installing and brain-even game
 [![asciicast](https://asciinema.org/a/JrvZ0IRGw51An3HMrvqgVBrCv.svg)](https://asciinema.org/a/JrvZ0IRGw51An3HMrvqgVBrCv)
-
-#### // brain-calc game demo
-[![asciicast](https://asciinema.org/a/NSCS80M42y3KxXCBbm8Ctynn5.svg)](https://asciinema.org/a/NSCS80M42y3KxXCBbm8Ctynn5)
+#### // brain-calc game
+[![asciicast](https://asciinema.org/a/8pmZX6W4aCmqSZpruCFkyU6EI.svg)](https://asciinema.org/a/8pmZX6W4aCmqSZpruCFkyU6EI)
+#### // brain-gcd game
+[![asciicast](https://asciinema.org/a/C11sgfIZBwh3F5aJl54Yf7bal.svg)](https://asciinema.org/a/C11sgfIZBwh3F5aJl54Yf7bal)
