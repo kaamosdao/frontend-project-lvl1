@@ -6,8 +6,8 @@ const runGame = () => {
 
   // generate 2 random numbers from 1 to 100
   const getQuestion = () => {
-    const randomNumber1 = Math.abs(Math.floor(Math.random() * (101 - 1)) + 1);
-    const randomNumber2 = Math.abs(Math.floor(Math.random() * (101 - 1)) + 1);
+    const randomNumber1 = Math.floor(Math.random() * (101 - 1)) + 1;
+    const randomNumber2 = Math.floor(Math.random() * (101 - 1)) + 1;
     return `${randomNumber1} ${randomNumber2}`;
   };
 
