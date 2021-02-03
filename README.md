@@ -4,6 +4,7 @@
 This [repository](https://github.com/kaamosdao/frontend-project-lvl1) is created by Alexander Demidov. 
 This is a project made on educational course [Hexlet](https://ru.hexlet.io/pages/about?utm_source=github&utm_medium=link&utm_campaign=nodejs-package).
 This project represents 5 games you can play. Hope you enjoy it!
+
 ##Brain Games
 ### Hexlet tests and linter status:
 [![Action hexlet-check Status](https://github.com/kaamosdao/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/kaamosdao/frontend-project-lvl1/actions)
