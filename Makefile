@@ -1,7 +1,7 @@
-install: # установить зависимости
+install:
 	npm install
 
-brain-games: # запустить brain-games
+brain-games:
 	node bin/brain-games.js
 
 publish:
