@@ -16,8 +16,8 @@ const calculateExpression = (number1, number2, operation) => {
   }
 };
 const getQuestionAndAnswer = () => {
-  const symbols = ['+', '-', '*'];
-  const symbol = symbols[getRandom(0, symbols.length - 1)];
+  const operations = ['+', '-', '*'];
+  const symbol = operations[getRandom(0, operations.length - 1)];
   const number1 = getRandom(0, 100);
   const number2 = getRandom(0, 100);
   const question = `${number1} ${symbol} ${number2}`;

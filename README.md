@@ -9,8 +9,7 @@ This project represents 5 games you can play. Hope you enjoy it!
 ### Hexlet tests and linter status:
 [![Action hexlet-check Status](https://github.com/kaamosdao/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/kaamosdao/frontend-project-lvl1/actions)
 [![Action Linting Status](https://github.com/kaamosdao/frontend-project-lvl1/workflows/Linting/badge.svg)](https://github.com/kaamosdao/frontend-project-lvl1/actions)
-[![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
-
+[![Maintainability](https://api.codeclimate.com/v1/badges/55a69f44280f34b4b879/maintainability)](https://codeclimate.com/github/kaamosdao/frontend-project-lvl1/maintainability)
 
 
 ```sh 
